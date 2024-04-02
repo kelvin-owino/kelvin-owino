@@ -1,6 +1,6 @@
+![I'm a Full-Stack Developer 📱 and Designer 🎨/ Upcoming Android Dev.](https://github.com/kelvin-owino/kelvin-owino/blob/main/Kelvin%20Ochieng.png)
 ### Hi there 👋, kelvin-owino 
 #### I'm a Full-Stack Developer 📱 and Designer 🎨/ Upcoming Android Dev.
-![I'm a Full-Stack Developer 📱 and Designer 🎨/ Upcoming Android Dev.](https://github.com/kelvin-owino/kelvin-owino/blob/main/Kelvin%20Ochieng.png)
 
 I'm kelvin Owino Ochieng 👋Software Engineer and Tech Writer. Best at Mobile app development with Flutter, Full Stack development with . Other areas of expertise are UI UX Designer,Android, .Net and Qt.
 
