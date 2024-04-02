@@ -1,13 +1,13 @@
 ### Hi there 👋, kelvin-owino 
-#### full stack developer /Web Developing /Web Designer /SEO /Coding /Andriod
-![full stack developer /Web Developing /Web Designer /SEO /Coding /Andriod](https://pbs.twimg.com/profile_banners/1621063741818257408/1712073921/600x200)
+#### I'm a Full-Stack Developer 📱 and Designer 🎨/ Upcoming Android Dev.
+![I'm a Full-Stack Developer 📱 and Designer 🎨/ Upcoming Android Dev.](https://pbs.twimg.com/profile_banners/1621063741818257408/1712073921/600x200)
 
 I'm kelvin Owino Ochieng 👋Software Engineer and Tech Writer. Best at Mobile app development with Flutter, Full Stack development with . Other areas of expertise are UI UX Designer,Android, .Net and Qt.
 
 Skills: TYPESCRIPT/ VUE JS / REACT / JS / HTML / CSS/ PYTHON/ REACT JS/ Flutter
 
 - 🔭 I’m currently working on Freelance 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Vendor Recommendation Java & React js 
 - 👯 I’m looking to collaborate on Front and back end projects 
 - 🤔 I’m looking for help with React js 
 - 📫 How to reach me: +254 43243005 
