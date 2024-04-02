@@ -1,6 +1,6 @@
 ### Hi there 👋, kelvin-owino 
 #### full stack developer /Web Developing /Web Designer /SEO /Coding /Andriod
-![full stack developer /Web Developing /Web Designer /SEO /Coding /Andriod](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![full stack developer /Web Developing /Web Designer /SEO /Coding /Andriod](https://pbs.twimg.com/profile_banners/1621063741818257408/1712073921/600x200)
 
 I'm kelvin Owino Ochieng 👋Software Engineer and Tech Writer. Best at Mobile app development with Flutter, Full Stack development with . Other areas of expertise are UI UX Designer,Android, .Net and Qt.
 
@@ -24,6 +24,8 @@ Skills: TYPESCRIPT/ VUE JS / REACT / JS / HTML / CSS/ PYTHON/ REACT JS/ Flutter
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-owino)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-owino&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/kelvin-owino/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/kelvin-owino)  
 
