@@ -6,12 +6,10 @@ I'm kelvin Owino Ochieng 👋Software Engineer and Tech Writer. Best at Mobile a
 
 Skills: TYPESCRIPT/ VUE JS / REACT / JS / HTML / CSS/ PYTHON/ REACT JS/ Flutter
 
-- 🔭 I’m currently working on Freelance 
 - 🌱 I’m currently learning Vendor Recommendation Java & React js 
 - 👯 I’m looking to collaborate on Front and back end projects 
 - 🤔 I’m looking for help with React js 
-- 📫 How to reach me: +254 43243005 
-- 😄 Pronouns: Kev 
+- 😄 Pronouns:  He/Him
 - ⚡ Fun fact: Am just a dev 
 
 
